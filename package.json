@@ -1,0 +1,15 @@
+{
+  "name": "spritz-api-lib",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "create-user.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.10"
+  },
+  "type": "module"
+}
